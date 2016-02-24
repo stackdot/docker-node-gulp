@@ -1,2 +1,5 @@
+Markdown
+[![Build Status](https://drone.stackdot.com/api/badges/stackdot/docker-node-gulp/status.svg)](https://drone.stackdot.com/stackdot/docker-node-gulp)
+
 # docker-node-gulp
-Repo for building a docker image with the latest Node with global installed Gulp.
+Docker image with `node:latest` and gulp installed globally.
